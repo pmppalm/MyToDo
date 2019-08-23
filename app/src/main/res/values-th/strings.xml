@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_button">ลงชื่อเข้าใช้งาน</string>
+    <string name="text_email">อีเมล</string>
+    <string name="text_password">รหัสผ่าน</string>
+    <string name="text_login">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="text_forgot_pass">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+</resources>
